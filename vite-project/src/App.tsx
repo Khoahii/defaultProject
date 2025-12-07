@@ -17,6 +17,7 @@ function App() {
         </a>
       </div>
       <h1>Khoa 1881 đã thay đổi nội dung. Và Khoa1 lại thay đổi nội dung</h1>
+      <h1>Khoa 1881 Thay đổi nội dung part2</h1>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
